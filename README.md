@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Ali Amr Ahmed</h1>
 <h3 align="left">I am currently a student at Cairo University majoring in software engineering</h3>
 
-- 🌱 I’m currently learning Backend development using node.js and typescript
+🌱 I’m currently learning Backend development using node.js and typescript
 
-- 📫 How to reach me alielmalah2002@gmail.com
+📫 How to reach me alielmalah2002@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
