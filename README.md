@@ -9,7 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/a.amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a.amr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrew-samir-253a46201" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="andrew-samir-253a46201" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/ali-elmallah-a10884277" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="ali-elmallah-a10884277" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
