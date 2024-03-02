@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ali Amr Ahmed</h1>
+<h1 align="left">Hi 👋, I'm Ali El-Mallah</h1>
 <h3 align="left">I am currently a student at Cairo University majoring in software engineering</h3>
 
 🌱 I’m currently learning Backend development using node.js and typescript
