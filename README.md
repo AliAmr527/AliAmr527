@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ali El-Mallah</h1>
 <h3 align="left">🎓 I am a fresh graduate from Cairo University majoring in software engineering</h3>
 
-<h3 align="left">🌱 I’m currently learning Backend development using node.js</h3>
+<h3 align="left">🌱 I’m currently learning TypeScript & NestJs</h3>
 
 <h3 align="left">🚀 I am passionate about building efficient and scalable backend systems and love tackling challenging problems.</h3>
 
