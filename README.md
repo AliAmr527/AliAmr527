@@ -4,7 +4,7 @@ Curently working as a Backend Engineer at <a href="https://ndceg.com/odeysysport
 </p>
 
 [![Linkedin: Ali](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fali-elmallah-a10884277%2F)](https://www.linkedin.com/in/ali-elmallah-a10884277/)
-[![Gmail: Ali](https://img.shields.io/badge/Gmail-alielmallah2002-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aliElMallah2002@gmail.com)
+[![Gmail: Ali](https://img.shields.io/badge/Gmail-alielmalah2002-red?style=flat-square&logo=gmail&logoColor=white)](mailto:alielmalah2002@gmail.com)
 
 
 
